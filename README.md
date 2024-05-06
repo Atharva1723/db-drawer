@@ -1,4 +1,4 @@
-![alt text](logo-1.png)
+![DB-DRAWER](logo.png)
 # db-drawer
 
 a cli tool for visualising your database schemas. db-drawer checks the data model schemas of your project ("./models") folder and visualises by running on localhost in node environment. it attaches to your project as an npm package.
